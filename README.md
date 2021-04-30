@@ -2,6 +2,8 @@
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
+![image](https://user-images.githubusercontent.com/77943718/116742164-fee47000-a9c4-11eb-9afc-041c190e3585.png)
+
 
 **Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
 
